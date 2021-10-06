@@ -1,6 +1,6 @@
 # Weather-App
 
-https://compassionate-booth-b5dae0.netlify.app/  <---LINK TO THE APP
+https://kind-noyce-3e6b02.netlify.app/  <---LINK TO THE APP
 
 This is a weather forecast project which has been created using JavaScrip, CSS and html. The app uses an API which fetches accurate weather data. 
 Up to this point the aplication fetches data regarding temperature displayed in °C, date and time, real feel , sky conditions and 
